@@ -1,0 +1,10 @@
+{
+    "output_file": "settings.json",
+    "GeoInfo": {
+        "type": "textbox",
+        "value": "!geo",
+        "label": "get info",
+        "tooltip": "The command to query the database for info",
+        "group": "Core"
+    }
+  }

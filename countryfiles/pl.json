@@ -1,0 +1,8 @@
+{
+    "side": "right",
+    "plates": "white, black letters, EU style, blue stripe on left",
+    "signs": "EU signs with yellow background",
+    "roads": "Motorways: red signs A#, Expressways: red signs S#, Voivodeship roads: yellow signs ###, organized regionally",
+    "roadlines": "large roads white side lines with white dashed lines denoting lanes. Two lane roads employ single dashed, single solid or dashed solid. Side lanes dashed for incoming roads. Small roads often have no markings",
+    "markers": "large roads have km markers, skinny white with red stripe,every 1.0 km highway no. is visible although not always accurate."
+}
